@@ -10,7 +10,9 @@
 <body>
   <div class="navbar">
     <div class="top-bar">
-      <div class="logo">Logo</div>
+      <div class="logo">
+        <img src="../../../assets/images/icons/logo-but.svg" alt="logo">
+      </div>
       <div class="menu-links">
         <a href="#">Pièces</a>
         <a href="#">Catégorie</a>
