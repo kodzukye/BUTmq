@@ -20,7 +20,7 @@
         <a href="#">Promotions</a>
       </div>
       <div class="actions">
-        <button class="btn-secondary">Panier</button>
+        <button class="btn-panier"><img src="../../../assets/images/icons/logo-panier.svg"></button>
         <button class="btn-primary">Compte</button>
       </div>
     </div>

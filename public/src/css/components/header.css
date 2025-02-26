@@ -31,10 +31,15 @@ body {
     margin-left: 16px;
   }
   
-  .btn-secondary {
-    border: 1px solid black;
+  .btn-panier {
+    border: 0px;
     background-color: white;
-    padding: 8px 16px;
+    padding: 0;
+  }
+
+  .btn-panier img {
+    width: 24px;
+    height: 24px;
   }
   
   .btn-primary {
