@@ -11,7 +11,9 @@
   <div class="navbar">
     <div class="top-bar">
       <div class="logo">
-        <img src="../../../assets/images/icons/logo-but.svg" alt="logo">
+        <a href="../../../views/accueil">
+          <img src="../../../assets/images/icons/logo-but.svg" alt="logo">
+        </a>
       </div>
       <div class="menu-links">
         <a href="#">Pièces</a>
@@ -21,7 +23,7 @@
       </div>
       <div class="actions">
         <button class="btn-panier"><img src="../../../assets/images/icons/logo-panier.svg"></button>
-        <button class="btn-primary">Compte</button>
+        <button class="btn-compte">Se Connecter</button>
       </div>
     </div>
 
